@@ -10,11 +10,19 @@
     "Type": "User",
     "GUID": "{4887E312-40EB-4F8A-B46E-393352C93F04}",
     "Language": "SFX",
-    "Hash": "{D6E57B60-1F63-DB19-FFF4-9ACA80091100}",
+    "Hash": "{4D463CAF-5EC1-280F-57E0-89629862107C}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
     "Media": [
+     {
+      "Id": "225206670",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX\\Hover\\Hovering_Thrust.wav",
+      "CachePath": "A0/{A021E6AE-02D4-4C06-18E6-0C6058828901}.wem"
+     },
      {
       "Id": "767253366",
       "Language": "SFX",
@@ -38,10 +46,24 @@
         "Id": "767253366"
        }
       ]
+     },
+     {
+      "Id": "3315759139",
+      "Name": "Hovering",
+      "ObjectPath": "\\Events\\Default Work Unit\\Hovering",
+      "GUID": "{EE652D0F-9DB1-4FA8-A8B0-A9C33AE2CE1C}",
+      "DurationType": "OneShot",
+      "DurationMin": "11",
+      "DurationMax": "11",
+      "MediaRefs": [
+       {
+        "Id": "225206670"
+       }
+      ]
      }
     ]
    }
   ],
-  "FileHash": "{91D43BF1-25A9-D5C7-C66C-CDB8629D467E}"
+  "FileHash": "{C1046AD5-4928-A38A-C23E-6233F978856C}"
  }
 }

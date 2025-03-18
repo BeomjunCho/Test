@@ -14,6 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Hovering" ID="{EE652D0F-9DB1-4FA8-A8B0-A9C33AE2CE1C}">
+					<ChildrenList>
+						<Action Name="" ID="{C9061967-F050-492B-AADB-28A822B23EE4}" ShortID="318475191">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hovering_Thrust" ID="{49182537-8DB2-4553-975B-EF7FD0D58D4F}" WorkUnitID="{9CEBC6F1-7C85-4944-BA55-24DB7DF437CD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

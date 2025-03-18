@@ -244,6 +244,9 @@
 						<Folder Name="Quick_Boost" ID="{C2246933-CEFA-40C8-8AF2-2D328336E35C}" ShortID="284094029">
 							<ChildrenList>
 								<Sound Name="Quick_Boost_Mono" ID="{F390E9FB-69CA-408D-A499-92062E81ABDB}" ShortID="352505205">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="2"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C62A4C2D-4501-45C5-A3D4-0F9F143BFE7E}"/>
