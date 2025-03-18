@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{4887E312-40EB-4F8A-B46E-393352C93F04}",
+    "Language": "SFX",
+    "Hash": "{D6E57B60-1F63-DB19-FFF4-9ACA80091100}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "767253366",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX\\Quick_Boost\\Quick_Boost_Mono.wav",
+      "CachePath": "7F/{7F7FD507-6415-F343-B266-B3DD7EBF7A8C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2389703494",
+      "Name": "Boost",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boost",
+      "GUID": "{98EEC368-5C2A-4C8A-A9E6-FF36D814668E}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2166667",
+      "DurationMax": "1.2166667",
+      "MediaRefs": [
+       {
+        "Id": "767253366"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B83BD7A9-2FA6-627A-F235-DC67D0E44F31}"
+ }
+}

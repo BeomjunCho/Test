@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{16D5B056-F1BF-47D2-AD2E-D750B21210A8}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{16D5B056-F1BF-47D2-AD2E-D750B21210A8}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Boost" ID="{98EEC368-5C2A-4C8A-A9E6-FF36D814668E}">
+					<ChildrenList>
+						<Action Name="" ID="{FF8A4635-FA98-4F3C-AFF2-E5FD8A2B0A06}" ShortID="255235766">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Quick_Boost_Mono" ID="{F390E9FB-69CA-408D-A499-92062E81ABDB}" WorkUnitID="{9CEBC6F1-7C85-4944-BA55-24DB7DF437CD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

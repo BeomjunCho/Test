@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2389703494	Boost			\Default Work Unit\Boost	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	767253366	Quick_Boost_Mono	C:\GitHub_Projects\Test\Test\Test_WwiseProject\.cache\7F\{7F7FD507-6415-F343-B266-B3DD7EBF7A8C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Quick_Boost\Quick_Boost_Mono		116896
+
