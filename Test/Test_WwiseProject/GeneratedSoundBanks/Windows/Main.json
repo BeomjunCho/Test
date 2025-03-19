@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{4887E312-40EB-4F8A-B46E-393352C93F04}",
     "Language": "SFX",
-    "Hash": "{4D463CAF-5EC1-280F-57E0-89629862107C}",
+    "Hash": "{4C7193B4-A347-4276-6EC9-15B94038A81E}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "SFX\\Hover\\Hovering_Thrust.wav",
-      "CachePath": "A0/{A021E6AE-02D4-4C06-18E6-0C6058828901}.wem"
+      "CachePath": "2B/{2BA47EF7-5D59-1D00-69F2-A20D68A72094}.wem"
      },
      {
       "Id": "767253366",
@@ -29,7 +29,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "SFX\\Quick_Boost\\Quick_Boost_Mono.wav",
-      "CachePath": "7F/{7F7FD507-6415-F343-B266-B3DD7EBF7A8C}.wem"
+      "CachePath": "76/{76489215-BF26-21F7-D66E-B8E2860B15A2}.wem"
      }
     ],
     "Events": [
@@ -38,9 +38,8 @@
       "Name": "Boost",
       "ObjectPath": "\\Events\\Default Work Unit\\Boost",
       "GUID": "{98EEC368-5C2A-4C8A-A9E6-FF36D814668E}",
-      "DurationType": "OneShot",
-      "DurationMin": "1.2166667",
-      "DurationMax": "1.2166667",
+      "MaxAttenuation": "10000",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "767253366"
@@ -52,9 +51,8 @@
       "Name": "Hovering",
       "ObjectPath": "\\Events\\Default Work Unit\\Hovering",
       "GUID": "{EE652D0F-9DB1-4FA8-A8B0-A9C33AE2CE1C}",
-      "DurationType": "OneShot",
-      "DurationMin": "11",
-      "DurationMax": "11",
+      "MaxAttenuation": "10000",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "225206670"
@@ -64,6 +62,6 @@
     ]
    }
   ],
-  "FileHash": "{644A6104-9C9A-FC92-380E-91112F28F605}"
+  "FileHash": "{A98ED4CD-AA87-3580-4D0C-07DD63224F20}"
  }
 }

@@ -3,6 +3,6 @@ Event	ID	Name			Wwise Object Path	Notes
 	3315759139	Hovering			\Default Work Unit\Hovering	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	225206670	Hovering_Thrust	C:\GitHub_Projects\TestWwise\Test\Test_WwiseProject\.cache\A0\{A021E6AE-02D4-4C06-18E6-0C6058828901}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Hover\Hovering_Thrust		2112096
-	767253366	Quick_Boost_Mono	C:\GitHub_Projects\TestWwise\Test\Test_WwiseProject\.cache\7F\{7F7FD507-6415-F343-B266-B3DD7EBF7A8C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Quick_Boost\Quick_Boost_Mono		116896
+	225206670	Hovering_Thrust	C:\GitHub_Projects\TestWwise\Test\Test_WwiseProject\.cache\2B\{2BA47EF7-5D59-1D00-69F2-A20D68A72094}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Hover\Hovering_Thrust		2112096
+	767253366	Quick_Boost_Mono	C:\GitHub_Projects\TestWwise\Test\Test_WwiseProject\.cache\76\{76489215-BF26-21F7-D66E-B8E2860B15A2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Quick_Boost\Quick_Boost_Mono		116896
 
