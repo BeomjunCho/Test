@@ -5,7 +5,7 @@
 			<ChildrenList>
 				<Attenuation Name="Test" ID="{0476A95A-732A-48DB-A8E9-9E985FE79842}" ShortID="992862189">
 					<PropertyList>
-						<Property Name="RadiusMax" Type="Real64" Value="5000"/>
+						<Property Name="RadiusMax" Type="Real64" Value="3000"/>
 					</PropertyList>
 					<CurveUsageInfoList>
 						<VolumeDryUsage>
@@ -22,7 +22,7 @@
 											<SegmentShape>Log1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>5000</XPos>
+											<XPos>3000</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -43,7 +43,7 @@
 											<Flags>5</Flags>
 										</Point>
 										<Point>
-											<XPos>5000</XPos>
+											<XPos>3000</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -64,7 +64,7 @@
 											<Flags>5</Flags>
 										</Point>
 										<Point>
-											<XPos>5000</XPos>
+											<XPos>3000</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -86,7 +86,7 @@
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>5000</XPos>
+											<XPos>3000</XPos>
 											<YPos>100</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -108,7 +108,7 @@
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>5000</XPos>
+											<XPos>3000</XPos>
 											<YPos>100</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -129,7 +129,7 @@
 											<Flags>5</Flags>
 										</Point>
 										<Point>
-											<XPos>5000</XPos>
+											<XPos>3000</XPos>
 											<YPos>45.63953</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -177,7 +177,7 @@
 										</Point>
 										<Point>
 											<XPos>100</XPos>
-											<YPos>100</YPos>
+											<YPos>55</YPos>
 											<Flags>37</Flags>
 										</Point>
 									</PointList>
@@ -242,7 +242,7 @@
 										</Point>
 										<Point>
 											<XPos>100</XPos>
-											<YPos>100</YPos>
+											<YPos>49</YPos>
 											<Flags>37</Flags>
 										</Point>
 									</PointList>
