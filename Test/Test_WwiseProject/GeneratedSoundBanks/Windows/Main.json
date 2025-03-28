@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{4887E312-40EB-4F8A-B46E-393352C93F04}",
     "Language": "SFX",
-    "Hash": "{4C7193B4-A347-4276-6EC9-15B94038A81E}",
+    "Hash": "{C3AD1C30-5AFB-8EA0-9204-F6F857FB0FE7}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -38,7 +38,7 @@
       "Name": "Boost",
       "ObjectPath": "\\Events\\Default Work Unit\\Boost",
       "GUID": "{98EEC368-5C2A-4C8A-A9E6-FF36D814668E}",
-      "MaxAttenuation": "10000",
+      "MaxAttenuation": "3000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -51,7 +51,7 @@
       "Name": "Hovering",
       "ObjectPath": "\\Events\\Default Work Unit\\Hovering",
       "GUID": "{EE652D0F-9DB1-4FA8-A8B0-A9C33AE2CE1C}",
-      "MaxAttenuation": "10000",
+      "MaxAttenuation": "3000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -62,6 +62,6 @@
     ]
    }
   ],
-  "FileHash": "{A98ED4CD-AA87-3580-4D0C-07DD63224F20}"
+  "FileHash": "{7392DA33-6D98-D955-FDB8-B93EA47C1376}"
  }
 }
